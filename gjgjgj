@@ -1,0 +1,28 @@
+html>
+   <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Локации</a>
+            <a>Предметы</a>
+        </header>
+        <body>
+            <h1>GTA V</h1>
+            <article class="card">
+              <p> Множество оружий в нашей любимой игре:пистолеты,автоматы,пистолеты-пулемёты,снайпирские винтовки,гранаты,парашюты,фонарик,всякие прицелы на оружия. <br><br><br></p>
+                <img src="https://qph.cf2.quoracdn.net/main-qimg-29b030fd7d6a1105764c58c6fe5f8bcd">
+            </article>
+            <article class="card">
+              <p> Несколько одежды на трёх персонажах:кофты,джинцы,футболки,штаны,плащи <br><br><br></p>
+                <img src="https://i.playground.ru/p/WuxjgYZyxWSI6i3WY2aC4Q.jpeg">
+            </article>
+             <article class="card">
+              <p> Множество дисков есть в игре на разные машины и мотоциклы <br><br><br></p>
+                <img src="https://cs2.gtavicecity.ru/screenshots/9a0d4/2016-11/original/55473fbef6e6fd098d475d329a37732f5c2f8524/364142-19b94e-paket1.jpg">
+                </article>
+             <article class="card">
+              <p> Очень прикольный пистолет который отбрасывает игрока или машины с предметами <br><br><br></p>
+                <img src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/02/Up-N-Atomizer.jpg">
+            </article>
+        </body> 
+   </main>
+</html>
